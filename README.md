@@ -5,6 +5,7 @@ Dépôt de déploiement public du site statique Cession & Reprise par Seutet Avo
 - `public/` contient uniquement les fichiers à publier.
 - `render.yaml` crée un Static Site Render gratuit avec déploiement automatique à chaque commit.
 - Les sources historiques, audits juridiques et outils internes ne sont pas inclus.
+- Dépôt lié au Static Site Render `cession-et-reprise`.
 
 ## Render
 
