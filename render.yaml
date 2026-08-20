@@ -5,8 +5,6 @@ services:
     buildCommand: echo "Static files ready"
     staticPublishPath: ./public
     autoDeployTrigger: commit
-    previews:
-      generation: "off"
     headers:
       - path: /*
         name: X-Content-Type-Options
